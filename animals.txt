@@ -1,1 +1,4 @@
+herbivore
+carnivore
+omnivore
 echo "Hello world"
