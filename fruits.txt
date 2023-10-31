@@ -1,3 +1,5 @@
+bole
+apple
 berry
 dates
 Sugarcane is a heakthy fruit. Let us add it to the list.
