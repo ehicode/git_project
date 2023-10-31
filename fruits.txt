@@ -1,3 +1,5 @@
+apricot
+cherry
 bole
 apple
 berry
