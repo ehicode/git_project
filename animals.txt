@@ -1,4 +1,5 @@
-herbivore
+plant use sunlight
+somer animal are herbivore
 carnivore
 omnivore
 echo "Hello world"
