@@ -4,6 +4,7 @@ kiwi
 orange
 Akpu
 apricot
+raspberry
 cherry
 lolo
 bole
