@@ -1,5 +1,8 @@
 rodents
 rats
+lion
+Hyena
+Dockey
 Lizard
 monkey
 goat
