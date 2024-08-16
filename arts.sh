@@ -1,2 +1,2 @@
-Today is a happy day!
+echo " Today is a happy day!"
 
